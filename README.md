@@ -11,6 +11,8 @@ Você pode entrar em contato comigo pelo e-mail: 📫
 
 m.angeloni@escola.pr.gov.br
 
+![image](https://github.com/angeloni2007/angeloni2007/assets/146840319/956f18cb-ad1a-4b0a-af63-031ca1b7cf30)
+
 <!--
 **angeloni2007/angeloni2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
