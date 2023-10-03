@@ -1,4 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
+Meu nome é Maria Luiza Peterlini Angeloni!
+
+Estou estudando na Alura.
+
+Estou me desenvolvendo na linguagem JavaScript, Scratch e HTML.
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
+
+Você pode entrar em contato comigo pelo e-mail: 📫
+
+m.angeloni@escola.pr.gov.br
 
 <!--
 **angeloni2007/angeloni2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
